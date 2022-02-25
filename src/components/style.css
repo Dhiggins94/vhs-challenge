@@ -1,0 +1,32 @@
+/*  <div className="image-container">
+          <img
+            src={avatar}
+            className="image"
+            alt="images"
+            css={css`
+             position: relative;
+             left: 0%
+             right: 0%
+             top: 0%
+             bottom: 25%
+             border: 2px solid rgba(240, 248, 255, 0.64);
+box-sizing: border-box;
+            `}
+          ></img>
+          <label
+            css={css`
+              width: 46px;
+              height: 16px;
+              font-family: Montserrat;
+              font-style: normal;
+              font-weight: bold;
+              font-size: 12px;
+              line-height: 16px;
+              letter-spacing: 0.857143px;
+              text-transform: uppercase;
+              color: rgba(240, 248, 255, 0.32);
+            `}
+          >
+            IMAGE
+          </label>
+        </div> */
