@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-In This repository, you will only need to run npm start once the repo has been forked and clone down. Everything such as assets and fonts does not need any additional downloading from the user. 
+In this repository, you will only need to run npm start once the repo has been forked and clone down. Everything such as assets and fonts does not need any additional downloading from the user. 
