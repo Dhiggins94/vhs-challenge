@@ -15,3 +15,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 In this repository, you will only need to run npm start once the repo has been forked and clone down. Everything such as assets and fonts does not need any additional downloading from the user. Please make sure if you download this repo to go into the master branch if you cannot see the assignment and git clone that branch if necessary 
+
+
+Total Hours worked: 40 hours
